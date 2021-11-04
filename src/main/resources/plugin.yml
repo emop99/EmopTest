@@ -1,0 +1,4 @@
+name: EmopTest
+version: '${project.version}'
+main: emoptest.emoptest.EmopTest
+api-version: 1.15
